@@ -285,7 +285,7 @@
                                         <nil key="highlightedColor"/>
                                     </label>
                                     <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="right" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="dVh-z7-sGA">
-                                        <rect key="frame" x="248.66666666666674" y="0.0" width="124.33333333333337" height="34.333333333333336"/>
+                                        <rect key="frame" x="248.66666666666671" y="0.0" width="124.33333333333334" height="34.333333333333336"/>
                                         <state key="normal" title="Button"/>
                                         <buttonConfiguration key="configuration" style="plain" title="reset"/>
                                         <connections>
