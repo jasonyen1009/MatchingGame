@@ -84,6 +84,8 @@
 			isa = PBXGroup;
 			children = (
 				9608DFD629D7159C000592D4 /* MatchingGame */,
+				9608E00B29DA74E2000592D4 /* Model */,
+				9608E00C29DA74EA000592D4 /* ViewController */,
 				9608DFED29D7159D000592D4 /* MatchingGameTests */,
 				9608DFF729D7159D000592D4 /* MatchingGameUITests */,
 				9608DFD529D7159C000592D4 /* Products */,
@@ -105,10 +107,7 @@
 			children = (
 				9608DFD729D7159C000592D4 /* AppDelegate.swift */,
 				9608DFD929D7159C000592D4 /* SceneDelegate.swift */,
-				9608DFDB29D7159C000592D4 /* ViewController.swift */,
 				9608DFDD29D7159C000592D4 /* Main.storyboard */,
-				9608E00729D87B39000592D4 /* Card.swift */,
-				9608E00929D87D01000592D4 /* MatchingGame.swift */,
 				9608DFE029D7159D000592D4 /* Assets.xcassets */,
 				9608DFE229D7159D000592D4 /* LaunchScreen.storyboard */,
 				9608DFE529D7159D000592D4 /* Info.plist */,
@@ -131,6 +130,23 @@
 				9608DFFA29D7159D000592D4 /* MatchingGameUITestsLaunchTests.swift */,
 			);
 			path = MatchingGameUITests;
+			sourceTree = "<group>";
+		};
+		9608E00B29DA74E2000592D4 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				9608E00929D87D01000592D4 /* MatchingGame.swift */,
+				9608E00729D87B39000592D4 /* Card.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		9608E00C29DA74EA000592D4 /* ViewController */ = {
+			isa = PBXGroup;
+			children = (
+				9608DFDB29D7159C000592D4 /* ViewController.swift */,
+			);
+			path = ViewController;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
